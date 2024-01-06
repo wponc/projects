@@ -74,8 +74,8 @@ function Content() {
       />
       <Project 
         name="Assorted Renders"
-        desc="I'm also becoming more proficient with Blender, memorizing the shortcuts one by one. I'm particularly interested in how light plays off of surfaces to generate refraction, chromatic aberration, and distortion. Moving forward, I'd like to get more adept at 'worldbuilding', and create expansive scenes that are convincing but maintain a sense of surreality."
-        src="./dmw.png"
+        desc="I'm also becoming more proficient with Blender, following tutorials and memorizing the shortcuts one by one. I'm particularly interested in how light plays off of surfaces to generate refraction, chromatic aberration, and distortion. Moving forward, I'd like to get more adept at 'worldbuilding', and create expansive scenes that are convincing but maintain a sense of surreality."
+        src="./renders.png"
         alt="translucent skull with chromatic aberration"
         id="dmw"
       /> 
