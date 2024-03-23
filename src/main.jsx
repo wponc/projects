@@ -18,22 +18,19 @@ function App() {
 }
 function Overlay(){
   return(
-  <>    
-      <div className="navbar">
-          <div className="nav-item" id="menu-button">
-            <span className="material-symbols-outlined">blur_on</span>
-              <div className="dropdown-content">
-                <a href="https://will.limited">home</a>
-                <a href="https://experience.will.limited">experience</a>
-                <a href="https://about.will.limited">personal</a>
-              </div>
+    <nav>
+      <ul>
+        <div id='menu-button'>
+          <li><a href="#"><span class="material-symbols-outlined" >select_all</span></a></li>
+          <div className="dropdown-content">
+            <a href="https://will.limited">//home</a>
+            <a href="https://projects.will.limited">//projects</a>
+            <a href="https://about.will.limited">//personal</a>
           </div>
-
-          <div className="nav-item">
-              <a href="mailto:willdotlimited@gmail.com">contact</a>
-          </div>
-      </div>
-  </>
+        </div>
+        <li><a href="mailto:willdotlimited@gmail.com">//contact</a></li>
+      </ul>
+    </nav>
   )
 }
 
