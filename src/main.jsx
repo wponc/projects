@@ -47,7 +47,7 @@ function Content() {
       />
       <Project 
         name="Hawaii Disaster Relief"
-        desc="For our final project, our intern group at Esri built a hypothetical disaster relief application for citizens and first responders of the Hawaiian mainland. This tied together multiple applications within the ArcGIS software suite. We first deployed an Enterprise environment to allow for full control of the public-facing and private infrastructure, and setup an Enterprise Site to house a live flood risk map across the state. On the front end citizens would submit a Survey123 form with details to customize the aid they were in need of. On the backend, Hawaiian responders would be tasked through ArcGIS Workforce to respond to citizens. This interaction between citizens and dispatchers was updated in realtime, and reflected in the Enterprise Site. Further details of our final project can be found in this "
+        desc="For our final project, our intern group at Esri built a hypothetical disaster relief application for citizens and first responders of the Hawaiian mainland. This tied together multiple applications within the ArcGIS software suite. We first deployed an Enterprise environment to allow for full control of the public-facing and private infrastructure, and setup an Enterprise Site to house a live flood risk map across the state. On the front end citizens would submit a Survey123 form with details to customize the aid they were in need of. On the backend, Hawaiian first responders would be tasked through ArcGIS Workforce to provide aid to citizens. This interaction between citizens and dispatchers was updated in realtime, and reflected in the Enterprise Site. Further details of our final project can be found in this "
         link="https://storymaps.arcgis.com/stories/078e0fd40bda4bfb9865863aaefec906"
         linkText="ArcGIS Story Map."
 
@@ -64,14 +64,14 @@ function Content() {
       />
       <Project 
         name="Mini sites"
-        desc="Practice, practice, practice. In an effort to get more comfortable with web design, I've presented a number of academic and work projects using static sites rather than PowerPoint presentations. While focused more on form than function, this has been a great way to explore the possibilities of web graphics in conveying diverse ideas. To me, a website's landing page can grab the viewer's attention in a way that presentation slides might not (see Lusion.co). The landing pages for some of these mini sites are shown below."
+        desc="Practice, practice, practice. In an effort to get more comfortable with web design, I've presented a number of academic and work projects using static sites rather than PowerPoint presentations. While focused more on form than function, this has been a great way to explore the possibilities of web graphics in conveying dynamic ideas. To me, a website's landing page can grab the viewer's attention in a way that presentation slides might not (see Lusion.co). The landing pages for some of these mini sites are shown below."
         src="/pages.png"
         alt="Landing pages for presentations on ArcGIS software applications"
         id="pages"
       />
       <Project 
         name="Assorted Renders"
-        desc="I'm also becoming more proficient with Blender, following tutorials and memorizing the shortcuts one by one. I'm particularly interested in how light plays off of surfaces to generate refraction, chromatic aberration, and distortion. Moving forward, I'd like to get more adept at 'worldbuilding', and create expansive scenes that are convincing but maintain a sense of surreality."
+        desc="I'm also becoming more proficient with Blender, following tutorials and memorizing the shortcuts one by one. I'm particularly interested in how light plays off of surfaces to generate refraction, chromatic aberration, and distortion. Moving forward, I'd like to get more adept at 'worldbuilding', and create expansive scenes that are convincing in their composition but maintain a sense of surreality."
         src="./renders.png"
         alt="translucent skull with chromatic aberration"
         id="dmw"
