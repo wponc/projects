@@ -24,7 +24,7 @@ function Overlay(){
           <li><a href="#"><span class="material-symbols-outlined" >select_all</span></a></li>
           <div className="dropdown-content">
             <a href="https://will.limited">//home</a>
-            <a href="https://projects.will.limited">//projects</a>
+            <a href="https://experience.will.limited">//experience</a>
             <a href="https://about.will.limited">//personal</a>
           </div>
         </div>
